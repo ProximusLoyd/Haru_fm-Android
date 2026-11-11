@@ -9,7 +9,8 @@ __Haru_fm__
 
 __INSTALLATION__ 
 
-[*Moved to new dedicated repo named Haru_fm-Android https://github.com/ProximusLoyd/Haru_fm-Android]
+ANDROID EDITION
+Download it from :- https://github.com/ProximusLoyd/Haru_fm-Android/releases
 
 - Android (arm64-8 and armeabi-v7 ). 
    Install the haru_fm-arm64-v8a.apk for main app
